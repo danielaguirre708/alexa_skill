@@ -1,8 +1,12 @@
-# Welcome to your CDK TypeScript project
+# Welcome to your CDK Alexa Skill project
 
-This is a blank project for CDK development with TypeScript.
+This is a simple alexa Skill  project for CDK development with TypeScript
+and Python.
+
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
+
+···
 
 ## Useful commands
 
